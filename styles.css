@@ -108,14 +108,17 @@ body {
   }
   
   .profile-image-wrapper img {
-    margin-left: 100px;  
+    margin-top: 70px;
+    margin-left: 200px;  
     width: 30%;
   }
   
   .profile-content-wrapper {
-    padding: 30px;
+    margin-right: 50px;
+    padding: 50px;
   }
   
   .profile-content-wrapper h1 {
+    margin-top: 50px;
     color: lightseagreen;
   }
